@@ -1,0 +1,52 @@
+{
+  "voiceNotes": {
+    "greetings": {
+      "Hello👋🏻🙂": {
+        "voiceNote": "https://cdn.ironman.my.id/i/cfviw9.mp4",
+        "image": {
+          "url": "https://graph.org/file/14c9e1c99f5f2b1ad693d.jpg",
+          "caption": "Hello! Here’s your greeting."
+        }
+      },
+      "good morning": {
+        "voiceNote": "https://cdn.ironman.my.id/i/cfviw9.mp4",
+        "image": {
+          "url": "https://graph.org/file/14c9e1c99f5f2b1ad693d.jpg",
+          "caption": "സുപ്രഭാതം! Wishing you a wonderful day."
+        }
+      }
+    },
+    "farewells": {
+      "bye": {
+        "voiceNote": "https://cdn.ironman.my.id/i/cfviw9.mp4",
+        "image": {
+          "url": "https://graph.org/file/14c9e1c99f5f2b1ad693d.jpg",
+          "caption": "Goodbye! See you next time."
+        }
+      },
+      "good night": {
+        "voiceNote": "https://cdn.ironman.my.id/i/cfviw9.mp4",
+        "image": {
+          "url": "https://graph.org/file/14c9e1c99f5f2b1ad693d.jpg",
+          "caption": "ശുഭ നിദ്ര! Sleep tight."
+        }
+      }
+    },
+    "gratitude": {
+      "thank you": {
+        "voiceNote": "https://cdn.ironman.my.id/i/ef6pko.mp4",
+        "image": {
+          "url": "https://graph.org/file/14c9e1c99f5f2b1ad693d.jpg",
+          "caption": "Thank you! I appreciate it."
+        }
+      },
+      "thanks a lot": {
+        "voiceNote": "https://cdn.ironman.my.id/i/ef6pko.mp4",
+        "image": {
+          "url": "https://graph.org/file/14c9e1c99f5f2b1ad693d.jpg",
+          "caption": "നന്ദി ഉണ്ടെ! നീ പൊളിയാട.!"
+        }
+      }
+    }
+  }
+}
